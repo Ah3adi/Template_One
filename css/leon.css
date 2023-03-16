@@ -241,7 +241,7 @@ body {
     font-weight: 17px;
 }
 
-@media (min-width: 675px) and (max-width: 1199px) {
+@media (min-width: 660px) and (max-width: 1199px) {
     .feat:last-of-type {
         transform: translate(55%, -5%);
         -webkit-transform: translate(55%, -5%);
